@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&family=Libre+Baskerville:wght@400;700&family=Nunito:wght@400;600&family=Quicksand:wght@400;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Libre Baskerville", serif;
+  background-color: #d3e3fc;
+}
+main {
+  margin: 20px auto;
+}
+
+meal-list {
+  display: block;
+  margin-top: 32px;
+  width: 70%;
+  padding: 16px;
+  margin: 23px auto auto auto;
+}
